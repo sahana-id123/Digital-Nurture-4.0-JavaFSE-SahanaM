@@ -39,11 +39,31 @@
       Exercise 1: Mocking and Stubbing
       
       Exercise 2: Verifying Interactions
+
+   3. SLF4J logging framework
+   
+      Exercise 1: Logging Error Messages and Warning Levels   
+
+   # week-3
+   
+   1. Spring Core and Maven
+      
+      Exercise 1: Configuring a Basic Spring Application
+
+      Exercise 2: Implementing Dependency Injection
+
+      Exercise 4: Creating and Configuring a Maven Project
+
+   2. Spring Data JPA with Spring Boot, Hibernate
+
+      Spring Data JPA - Quick Example
+
+      Difference between JPA, Hibernate and Spring Data JPA
+
+      
       
 
-3. SLF4J logging framework
-   
-   Exercise 1: Logging Error Messages and Warning Levels
+
 
 
 
