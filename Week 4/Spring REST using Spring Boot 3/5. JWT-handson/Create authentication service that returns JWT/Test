@@ -1,3 +1,0 @@
-curl -s -u user:pwd http://localhost:8090/authenticate
-Response:
-{"token":"<jwt-token>"}
