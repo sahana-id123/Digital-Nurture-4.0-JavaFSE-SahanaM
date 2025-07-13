@@ -60,6 +60,28 @@
 
       Difference between JPA, Hibernate and Spring Data JPA
 
+      # Week 4
+      
+      Spring REST using Spring Boot 3
+
+      1. spring-rest-handson
+
+         Create a Spring Web Project using Maven
+
+         Spring Core – Load Country from Spring Configuration XML
+
+      2. spring-rest-handson
+     
+         Hello World RESTful Web Service
+
+         REST - Country Web Service
+
+         REST - Get country based on country code
+
+     3.  JWT-handson
+
+         Create authentication service that returns JWT
+
       
       
 
