@@ -82,6 +82,16 @@
 
          Create authentication service that returns JWT
 
+      # Week 5
+   
+   1. Microservices with API gateway
+    
+      1. Creating Microservices for account and loan
+
+      2. Create Eureka Discovery Server and register microservices   
+         
+         
+
       
       
 
